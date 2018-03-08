@@ -1,0 +1,7 @@
+#+STARTUP: indent
+#+STARTUP: showall
+#+PROPERTY: header-args :results replace
+
+#+author: Jianming Qu
+
+This is a submodule repo for [[https://github.com/SanCoder-Q/jenkins-hello][learning and setting up the Jenkins]].
